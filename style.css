@@ -1,0 +1,28 @@
+h2 {text-align:link;
+color: blue;
+  font-family: Arial;font-size:20pt
+}
+ h3 {text-align:link;
+color: blue;
+  font-family: Arial;font-size:20pt
+}
+h4{text-align:link;
+color: blue;
+  font-family: Arial;font-size:20pt
+}
+h5{text-align:link;
+color: blue;
+  font-family: Arial;font-size:20pt
+}
+body{background-color:#e0ffff}
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+    h1{
+        font-size: 2rem; 
+        padding: 1rem;
+    }
